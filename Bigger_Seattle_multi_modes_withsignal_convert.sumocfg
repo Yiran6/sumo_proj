@@ -1,0 +1,22 @@
+<configuration>
+
+	<input> 
+		<net-file value="test_2_traffic_sig_revise_3.net.xml"/>
+		<route-files value="veh_od_psrc_convert.rou.xml, ped_od.rou.xml, bus_link_route.rou.xml"/> 
+		<additional-files value = "Taz_bigger_Seattle_all_transit_with_pseudo_link.add.xml, edge_data.add.xml, signal_additional_revise.add.xml"/>
+	</input> 
+		
+	<output>
+		<tripinfo-output value = "tripinfo_Bigger_Seattle.xml" />
+	</output>
+	
+	<guionly>
+		<quit-on-end value = "false" />
+	</guionly>
+	
+	<time>
+		<begin value="0"/>
+		<end value="36000"/>
+	</time>
+	
+</configuration>
