@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!-- generated on 11/14/21 16:51:53 by Eclipse SUMO netedit Version 1.7.0
+<!-- generated on 11/15/21 22:43:03 by Eclipse SUMO netedit Version 1.7.0
 <configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/netconvertConfiguration.xsd">
 
     <input>
@@ -701,7 +701,7 @@
         <tazSource id="6508650#6" weight="1.00"/>
         <tazSink id="6508650#6" weight="1.00"/>
     </taz>
-    <taz id="429" shape="3880.22,5776.78 3890.15,5449.26 4019.17,5452.10 4087.22,5544.26 4132.59,5562.69 4122.67,5768.27 3880.22,5776.78" color="blue">
+    <taz id="429" shape="3880.22,5776.78 3890.15,5449.26 3928.84,5450.50 4019.17,5452.10 4087.22,5544.26 4132.59,5562.69 4122.67,5768.27 3880.22,5776.78" color="blue">
         <tazSource id="-295888757#1" weight="1.00"/>
         <tazSink id="-295888757#1" weight="1.00"/>
         <tazSource id="-295888759" weight="1.00"/>
@@ -4977,7 +4977,7 @@
         <tazSource id="620762217#0.35" weight="1.00"/>
         <tazSink id="620762217#0.35" weight="1.00"/>
     </taz>
-    <taz id="539" shape="3708.47,4013.77 3683.74,4000.91 3740.12,3903.98 3763.86,3932.66 3708.47,4011.79 3708.47,4013.77" color="blue">
+    <taz id="539" shape="3708.47,4013.77 3689.27,4004.05 3683.74,4000.91 3740.12,3903.98 3763.86,3932.66 3708.47,4011.79 3708.47,4013.77" color="blue">
         <tazSource id="22927970#0" weight="1.00"/>
         <tazSink id="22927970#0" weight="1.00"/>
         <tazSource id="679639327#0" weight="0.67"/>
